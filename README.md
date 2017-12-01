@@ -5,17 +5,17 @@
 what the project is form?
 Testing pull request.
 
-How to configure and install it
+-- How to configure and install it
 Log to github using your account.
-Enter https://github.com/ordunoesteban/iOSApp
+Enter https://github.com/ordunoesteban/iOSApp on your browser.
 Click the fork button
 Clone to your local computer using git clone https://github.com/eordunoicloud/iOSApp
-Work from a new branch instead of using iOSApp main using git checkout -b adding-content
+Work from a new branch instead of using iOSApp main using git checkout -b branch-name
 
-License that the project is under.
+--License that the project is under.
 Project is under GNU general license.
 
-How to contribute
+-- How to contribute
 Follow the instructions above to install it.
 Work from a new branch instead of using iOSApp main using git checkout -b branch-name
 Make file modifications
