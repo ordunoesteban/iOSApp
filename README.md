@@ -22,7 +22,8 @@ Make file modifications
 Add new files using git add filename
 Commit files using commit -a -m 'enter comment'
 Push files to git file using git push origin branch-name
-Create a new pull request.
+Create a new pull request by clicking Compare and pull request.
+Add a comment and then click Create Pull Request.
 Follow up with communications from project owner or feedback from peers.
 If changes are accepted, commit the code changes so they are merged with main branch.
 
